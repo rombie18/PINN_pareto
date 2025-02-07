@@ -38,7 +38,7 @@ n_hidden: 4
 # Number of neurons per layer
 n_neurons: 50
 # activation function hidden layers
-activation: 'tanh'
+activation: 'Tanh'
 feature_scaling: True
 
 #################################

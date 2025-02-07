@@ -1,6 +1,9 @@
 # On the Apparent Pareto Front of Physics-Informed Neural Networks
 Code to Paper
 
+## Changes from original
+Replaced TensorFlow with the PyTorch deep learning framework.
+
 ## Abstract
 Physics-informed neural networks (PINNs) have emerged as a promising deep learning method, capable of solving problems which are governed by differential equations.
 Despite their recent advance, it is widely acknowledged that PINNs are difficult to train and often require a careful tuning of loss weights when data and physics loss functions are combined by scalarization of a multi-objective (MO) problem.
